@@ -15,7 +15,7 @@ docstringexample.part_1 module
 docstringexample.part_2 module
 ------------------------------
 
-.. automodule:: docstringexample.part_2
+.. automodule:: test.part_2
     :members:
     :undoc-members:
     :show-inheritance:
